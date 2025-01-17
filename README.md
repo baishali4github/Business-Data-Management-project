@@ -1,6 +1,6 @@
 # Business-Data-Management-project
 ### 
-Capstone Business Data Management Project done under IIT Madras
+Capstone Business Data Management Project IIT Madras
 
 # Files Uploaded of different stages of project submission
 #### 
