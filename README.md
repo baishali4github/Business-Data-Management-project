@@ -14,6 +14,6 @@ Final_Term - The results and findings in the process of solutions.
 ###
 The repository structure is organized as follows:
 ####
-Submitted data: Contains project documents, including the proposal, mid-term submission, final report, and final presentation in PowerPoint format.
+Submitted data: Contains project documents, including the proposal, mid-term submission, final report, and final presentation in Power Point Format.
 ####
 For further details, please refer to the respective project documents in the "Submitted Files" folder.
